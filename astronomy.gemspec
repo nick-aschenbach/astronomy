@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Nick Aschenbach']
   spec.email         = ['nick.aschenbach@gmail.com']
   spec.summary       = %q{Get information using a simple interface about various celestial phenomena from Freebase. Search or browse the data.}
-  spec.description   = %q{Get the names, descriptions and image URLs for various categories including: Asterisms, Celestial Objects, Stars, Planets, Star Systems, Celestial object with coordinate systems, Asteroid Groups, Galaxies, Bodies with heliocentric orbits, Moons, Comets, Asteroids, Constellations, Nebulae, Natural satellites, Astronomical Discoveries, Galactic superclusters, Globular clusters, Supernovae, Galactic filaments, Meteor Showers. Also provides links to the full Freebase JSON data.}
+  spec.description   = %q{Search or browse the names, descriptions and image URLs for various categories including: Asterism, Celestial Object, Star, Planet, Star System, Galaxy, Moon, Comet, Asteroid, Constellation, Nebula, Astronomical Discovery, Cluster and Meteor Shower. Also provides links to the full Freebase JSON data.}
   spec.homepage      = 'https://github.com/nick-aschenbach/astronomy'
   spec.license       = 'MIT'
 

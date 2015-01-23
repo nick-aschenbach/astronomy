@@ -1,28 +1,23 @@
 # Astronomy
 
-Get information using a simple interface about various celestial phenomena from [Freebase](http://freebase.com) including:
+Search or browse the names, descriptions and image URLs for various categories of celestial phenomena including:
 
 - Asterisms
 - Celestial Objects
 - Stars
 - Planets
 - Star Systems
-- Celestial object with coordinate systems
-- Asteroid Groups
 - Galaxies
-- Bodies with heliocentric orbits
 - Moons
 - Comets
 - Asteroids
 - Constellations
 - Nebulae
-- Natural satellites
 - Astronomical Discoveries
-- Galactic superclusters
-- Globular clusters
-- Supernovae
-- Galactic filaments
+- Clusters
 - Meteor Showers
+
+Data source: [Freebase](http://freebase.com)
 
 For example, here is the entry on the Big Dipper:
 
@@ -74,7 +69,7 @@ Get a list of topics from a given category:
 
 ```ruby
 info = Astronomy::Information.new
-info.topics 'Galactic supercluster'
+info.topics 'Comet'
 ```
 
 Search both names and descriptions:
