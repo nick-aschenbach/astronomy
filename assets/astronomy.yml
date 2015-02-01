@@ -8,7 +8,6 @@ Asterism:
     pole star on Earth, can be located by extending an imaginary line from Merak through
     Dubhe. Polaris is part of the "Little Dipper", Ursa Minor.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02dd6yz.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04shvsk.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/09csbt
 - name: Orion's Belt
@@ -401,7 +400,6 @@ Star:
     Arcturus of the constellation Boötes is the brightest star in the northern celestial hemisphere. With a visual magnitude of −0.04, it is the fourth brightest star in the night sky, after −1.46 magnitude Sirius, −0.86 magnitude Canopus, and −0.27 magnitude Alpha Centauri. It is a relatively close star at only 36.7 light-years from Earth, and, together with Vega and Sirius, one of the most luminous stars in the Sun's neighborhood.
     Arcturus is a type K1.5 IIIpe orange giant star, with an absolute magnitude of −0.30. It has likely exhausted its hydrogen from its core and is currently in its active hydrogen shell burning phase. It will continue to expand before entering horizontal branch stage of its life cycle.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0290wf7.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05txnjf.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/013bd
 - name: Aldebaran
@@ -425,7 +423,6 @@ Star:
     Altair rotates rapidly, with a velocity at the equator of approximately 286 km/s. A study with the Palomar Testbed Interferometer revealed that Altair is not spherical, but is flattened at the poles due to its high rate of rotation. Other interferometric studies with multiple telescopes, operating in the infrared, have imaged and confirmed this phenomenon.
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bc5lf.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-029kzk6.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0gz8wkf.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/013f4
 - name: Gliese 581
@@ -584,15 +581,6 @@ Star:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05tkcrd.jpg
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06f2ww
-- name: Mu Cephei
-  description: Mu Cephei, also known as Herschel's Garnet Star, is a red supergiant
-    star in the constellation Cepheus. It is one of the largest and most luminous
-    stars known in the Milky Way. It appears garnet red and is given the spectral
-    class of M2 Ia. Since 1943, the spectrum of this star has served as one of the
-    stable anchor points by which other stars are classified.
-  images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05tkcrd.jpg
-  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06f2ww
 - name: Alphard
   description: |-
     Alphard is the brightest star in the constellation Hydra. The name Alphard is from the Arabic الفرد, "the solitary one", there being no other bright stars near it. It was also known as the "backbone of the Serpent" to the Arabs. In ancient China it formed part of an asterism called the "red bird". The European astronomer Tycho Brahe dubbed it Cor Hydræ, the heart of the snake.
@@ -649,15 +637,6 @@ Star:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-044vnt3.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291ckp.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/047l1h
-- name: Sun
-  description: |-
-    The Sun is the star at the center of the Solar System. It is almost spherical and consists of hot plasma interwoven with magnetic fields. It has a diameter of about 1,392,684 km, around 109 times that of Earth, and its mass accounts for about 99.86% of the total mass of the Solar System. Chemically, about three quarters of the Sun's mass consists of hydrogen, whereas the rest is mostly helium. The remaining 1.69% consists of heavier elements, including oxygen, carbon, neon and iron, among others.
-    The Sun formed about 4.567 billion years ago from the gravitational collapse of a region within a large molecular cloud. Most of the matter gathered in the center, whereas the rest flattened into an orbiting disk that would become the Solar System. The central mass became increasingly hot and dense, eventually initiating thermonuclear fusion in its core. It is thought that almost all stars form by this process. The Sun is a G-type main-sequence star based on spectral class and it is informally designated as a yellow dwarf because its visible radiation is most intense in the yellow-green portion of the spectrum.
-  images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bj03g.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-078ln4y.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02f1bdz.gif
-  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06m_p
 - name: Sirius
   description: |-
     Sirius is the brightest star in the night sky. With a visual apparent magnitude of −1.46, it is almost twice as bright as Canopus, the next brightest star. The name "Sirius" is derived from the Ancient Greek: Σείριος Seirios. The star has the Bayer designation Alpha Canis Majoris. What the naked eye perceives as a single star is actually a binary star system, consisting of a white main-sequence star of spectral type A1V, termed Sirius A, and a faint white dwarf companion of spectral type DA2, called Sirius B. The distance separating Sirius A from its companion varies between 8.2 and 31.5 AU.
@@ -682,14 +661,6 @@ Star:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bk6f3.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04rh3fg.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/080jt
-- name: Arcturus
-  description: |-
-    Arcturus of the constellation Boötes is the brightest star in the northern celestial hemisphere. With a visual magnitude of −0.04, it is the fourth brightest star in the night sky, after −1.46 magnitude Sirius, −0.86 magnitude Canopus, and −0.27 magnitude Alpha Centauri. It is a relatively close star at only 36.7 light-years from Earth, and, together with Vega and Sirius, one of the most luminous stars in the Sun's neighborhood.
-    Arcturus is a type K1.5 IIIpe orange giant star, with an absolute magnitude of −0.30. It has likely exhausted its hydrogen from its core and is currently in its active hydrogen shell burning phase. It will continue to expand before entering horizontal branch stage of its life cycle.
-  images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0290wf7.png
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05txnjf.png
-  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/013bd
 - name: Aldebaran
   description: |-
     Aldebaran is an orange giant star located about 65 light years away in the zodiac constellation of Taurus. With an average apparent magnitude of 0.87 it is the brightest star in the constellation and is one of the brightest stars in the nighttime sky. The name Aldebaran is Arabic and translates literally as "the follower", presumably because this bright star appears to follow the Pleiades, or "Seven Sisters" star cluster in the night sky.
@@ -711,7 +682,6 @@ Star:
     Altair rotates rapidly, with a velocity at the equator of approximately 286 km/s. A study with the Palomar Testbed Interferometer revealed that Altair is not spherical, but is flattened at the poles due to its high rate of rotation. Other interferometric studies with multiple telescopes, operating in the infrared, have imaged and confirmed this phenomenon.
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bc5lf.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-029kzk6.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0gz8wkf.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/013f4
 - name: Gliese 581
@@ -1426,7 +1396,6 @@ Star:
     visible to the naked eye at night. Parallax measurements place it at a distance
     of 395 light-years from Earth.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-029kzk6.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0gz8wkf.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/07_d73
 - name: Xi Persei
@@ -1487,7 +1456,6 @@ Star:
     In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Unuk al Ghyrab, which was translated into Latin as Collum Corvi, meaning the crow's neck.
     Beta Aquilae has magnitude 3.71 and is of spectral class G8IV. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is approximately 44.7 light years from Earth. It has a 12th magnitude optical companion, β Aquilae B, which is 13 arcseconds away in the sky.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-029kzk6.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0gz8wkf.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/07v_16
 - name: Zeta Ophiuchi
@@ -1909,7 +1877,6 @@ Planet:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bmd4g.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03rl68f.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-052qqmw.jpg
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0c3ss
 - name: Eris
   description: |-
@@ -2424,7 +2391,6 @@ Galaxy:
     While the LMC is often considered an irregular type galaxy, the LMC contains a very prominent bar in its center, suggesting that it may have previously been a barred spiral galaxy. The LMC's irregular appearance is possibly the result of tidal interactions with both the Milky Way and the Small Magellanic Cloud.
     It is visible as a faint "cloud" in the night sky of the southern hemisphere straddling the border between the constellations of Dorado and Mensa, and it appears from Earth more than 20 times the width of the full moon.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02blglf.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041c4c6.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05mc440.jpg
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/09t0d
@@ -2451,7 +2417,6 @@ Galaxy:
     The Whirlpool Galaxy is also a popular target for professional astronomers, who
     study it to further understand galaxy structure and galaxy interactions.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02d85yh.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041l1z1.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04rylqf.jpg
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0356rr
@@ -2634,7 +2599,6 @@ Galaxy:
     While the LMC is often considered an irregular type galaxy, the LMC contains a very prominent bar in its center, suggesting that it may have previously been a barred spiral galaxy. The LMC's irregular appearance is possibly the result of tidal interactions with both the Milky Way and the Small Magellanic Cloud.
     It is visible as a faint "cloud" in the night sky of the southern hemisphere straddling the border between the constellations of Dorado and Mensa, and it appears from Earth more than 20 times the width of the full moon.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02blglf.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041c4c6.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05mc440.jpg
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/09t0d
@@ -2661,7 +2625,6 @@ Galaxy:
     The Whirlpool Galaxy is also a popular target for professional astronomers, who
     study it to further understand galaxy structure and galaxy interactions.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02d85yh.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041l1z1.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04rylqf.jpg
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0356rr
@@ -3549,7 +3512,6 @@ Galaxy:
     Canes Venatici. Together, the two galaxies are one of the most famous interacting
     galaxy pairs.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02d85yh.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04rylqf.jpg
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/03wl9x
 - name: Pegasus Dwarf Spheroidal Galaxy
@@ -5201,8 +5163,8 @@ Constellation:
     Aquila is a constellation in the northern sky. Its name is Latin for 'eagle' and it represents the bird who carried Zeus/Jupiter's thunderbolts in Greco-Roman mythology.
     Aquila lies just a few degrees North of the celestial equator. The alpha star, Altair, is a vertex of the Summer Triangle asterism. The constellation is best seen in the summer as it is located along the Milky Way. Because of this location along the line of our galaxy, many clusters and nebulae are found within its borders, but they are dim and there are few galaxies.
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-029kzk6.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-079_7gs.jpg
+  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0gz8wkf.png
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/01npxs
 - name: Hydra
   description: Hydra is the largest of the 88 modern constellations, measuring 1303
@@ -5681,7 +5643,6 @@ Nebula:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0b6sccy.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-042bzs5.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0bnb2ty.json;
     charset=UTF-8
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0180sq
 - name: Crab Nebula
