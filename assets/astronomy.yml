@@ -756,6 +756,7 @@ Comet:
     Churyumov–Gerasimenko is the destination of the European Space Agency's Rosetta mission, launched on 2 March 2004. Rosetta rendezvoused with Churyumov–Gerasimenko on 6 August 2014 and entered orbit on 10 September 2014. Rosetta '​s lander, Philae, touched down on its surface on 12 November 2014, becoming the first spacecraft to land on a comet nucleus.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/02fl15
   images:
+  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/67p-comet-closeup.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03sysd3.jpg
   name: 67P/Churyumov–Gerasimenko
 - description: |-
@@ -1189,7 +1190,6 @@ Constellation:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03s89cb.png
   name: Lacerta
 - description: |-
-    Ø
     Lupus is a constellation in the southern sky. Its name is Latin for wolf. Lupus was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations. It lies between Centaurus and Scorpius.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/04ls0
   images:
@@ -4086,6 +4086,7 @@ Planet:
     Jupiter is primarily composed of hydrogen with a quarter of its mass being helium, although helium only comprises about a tenth of the number of molecules. It may also have a rocky core of heavier elements, but like the other gas giants, Jupiter lacks a well-defined solid surface. Because of its rapid rotation, the planet's shape is that of an oblate spheroid.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/09q84
   images:
+  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/jupiter-moon-occlusion.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02blcnw.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0c4kwsd.jpg
   name: Jupiter
@@ -4454,13 +4455,6 @@ Star:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bc5kf.gif
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291skq.png
   name: Aldebaran
-- description: |-
-    Proxima Centauri is a red dwarf about 4.24 light-years from the Sun, inside the G-cloud, in the constellation of Centaurus. It was discovered in 1915 by Scottish astronomer Robert Innes, the Director of the Union Observatory in South Africa, and is the nearest known star to the Sun, although it is too faint to be seen with the naked eye, with an apparent magnitude of 11.05. Its distance to the second- and third-nearest stars, which form the bright binary Alpha Centauri, is 0.237 ± 0.011 ly. Proxima Centauri is very likely part of a triple star system with Alpha Centauri A and B, but its orbital period may be greater than 500,000 years.
-    Because of the proximity of this star, its distance from the Sun and angular diameter can be measured directly, from which it can be determined that its diameter is about one-seventh of that of the Sun. Proxima Centauri's mass is about an eighth of the Sun's, and its average density is about 40 times that of the Sun. Although it has a very low average luminosity, Proxima is a flare star that undergoes random dramatic increases in brightness because of magnetic activity.
-  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0l1js
-  images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0dh98xh.jpg
-  name: Proxima Centauri
 - description: |-
     Altair is the brightest star in the constellation Aquila and the twelfth brightest star in the night sky. It is currently in the G-cloud. Altair is an A-type main sequence star with an apparent visual magnitude of 0.77 and is one of the vertices of the Summer Triangle. It is 16.7 light-years from Earth and is one of the closest stars visible to the naked eye.
     Altair rotates rapidly, with a velocity at the equator of approximately 286 km/s. A study with the Palomar Testbed Interferometer revealed that Altair is not spherical, but is flattened at the poles due to its high rate of rotation. Other interferometric studies with multiple telescopes, operating in the infrared, have imaged and confirmed this phenomenon.
@@ -5684,15 +5678,6 @@ Star System:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291pkm.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041f7kr.jpg
   name: Sagittarius
-- description: |-
-    The Solar System comprises the Sun and the objects that orbit it, whether they orbit it directly or by orbiting other objects that orbit it directly. Of those objects that orbit the Sun directly, the largest eight are the planets that form the planetary system around it, while the remainder are significantly smaller objects, such as dwarf planets and small Solar System bodies such as comets and asteroids.
-    The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in Jupiter. The four smaller inner planets, Mercury, Venus, Earth and Mars, also called the terrestrial planets, are primarily composed of rock and metal. The four outer planets, called the gas giants, are substantially more massive than the terrestrials. The two largest, Jupiter and Saturn, are composed mainly of hydrogen and helium; the two outermost planets, Uranus and Neptune, are composed largely of substances with relatively high melting points, called ices, such as water, ammonia and methane, and are often referred to separately as "ice giants".
-  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06p5g
-  images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bj18s.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03s9xxj.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04skppt.png
-  name: Solar System
 - description: Sagittarius is one of the constellations of the zodiac. It is one of
     the 48 constellations listed by the 2nd-century astronomer Ptolemy and remains
     one of the 88 modern constellations. Its name is Latin for the archer, and its
@@ -5720,18 +5705,6 @@ Star System:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02btyjt.jpg
   name: Eta Carinae
-- description: Mira is a red giant star estimated 200–400 light years away in the
-    constellation Cetus. Mira is a binary star, consisting of the red giant Mira A
-    along with Mira B. Mira A is also an oscillating variable star and was the first
-    non-supernova variable star discovered, with the possible exception of Algol.
-    Mira is the brightest periodic variable in the sky that is not visible to the
-    naked eye for part of its cycle. Its distance is uncertain; pre-Hipparcos estimates
-    centered on 220 light-years; while Hipparcos data from the 2007 reduction suggest
-    a distance of 299 light-years, with a margin of error of 11%.
-  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/057xd
-  images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bgv0m.jpg
-  name: Mira
 - description: Alcyone is a star system in the constellation Taurus. It is the brightest
     star in the Pleiades open cluster, which is a young cluster, aged at less than
     50 million years. Alcyone is approximately 400 light years from Earth. It is named
