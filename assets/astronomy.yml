@@ -118,7 +118,6 @@ Asteroid:
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0cq9x
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bmxnj.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05t4bkf.jpg
   name: 243 Ida
 - description: Juno, minor-planet designation 3 Juno in the Minor Planet Center catalogue
     system, was the third asteroid to be discovered and is one of the larger main-belt
@@ -204,7 +203,6 @@ Asteroid:
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0cqbc
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bjt_2.png
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04pl_td.png
   name: Asteroid belt
 - description: |-
     Ceres is the largest object in the asteroid belt, which lies between the orbits of Mars and Jupiter. It is composed of rock and ice, is 950 km in diameter, containing a third of the mass of the asteroid belt. It is the largest asteroid, and the only dwarf planet in the inner Solar System. It was the first asteroid to be discovered, on 1 January 1801 by Giuseppe Piazzi in Palermo, though at first it was considered to be a planet. The unmanned Dawn spacecraft is scheduled to arrive at Ceres in early 2015.
@@ -221,7 +219,6 @@ Asteroid:
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/07m61
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bjt_2.png
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04pl_td.png
   name: Jupiter Trojan
 Astronomical Discovery:
 - description: 50000 Quaoar is a large Kuiper belt object with one known moon. It
@@ -266,7 +263,6 @@ Astronomical Discovery:
     In astronomical terms, the Gliese 581 system is relatively close to Earth, at 20.3 light years in the direction of the constellation of Libra. This distance, along with the declination and right ascension coordinates, give its exact location in our galaxy.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/02qsv3h
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-044p5hv.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04s50k2.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-06368yh.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-06vyvq3.gif
@@ -308,7 +304,6 @@ Astronomical Discovery:
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/05wjv3
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bnk20.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-08bgx32.jpg
   name: SN 1054
 - description: SN 1987A was a supernova in the outskirts of the Tarantula Nebula in
     the Large Magellanic Cloud, a nearby dwarf galaxy. It occurred approximately 51.4
@@ -636,7 +631,6 @@ Cluster:
     On May 21, 1860, a nova was discovered in M80 that attained a magnitude of +7.0.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/03rtyl
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bf6q6.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05thf_b.jpg
   name: Messier 80
 - description: |-
@@ -646,7 +640,6 @@ Cluster:
     Nearby, at about 80' to the northeast of M9 is the dimmer globular cluster NGC 6356, while at about 80' to the southeast is the globular NGC 6342.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/03s1dy
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02dlbdb.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03txmk_.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-07kqnm5.jpg
   name: Messier 9
@@ -680,7 +673,6 @@ Cluster:
     A 2014 study indicates that the Virgo Supercluster is only a lobe of a greater supercluster, Laniakea, which is centered on the Great Attractor.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/01825t
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02c2g2l.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03s2wjf.jpg
   name: Virgo Supercluster
 Comet:
@@ -859,7 +851,6 @@ Constellation:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0290_p2.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05ph3tt.png
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-079ts4z.png
   name: Canis Minor
 - description: |-
     Capricornus is one of the constellations of the zodiac; it is often called Capricorn, especially when referring to the corresponding astrological sign. Its name is Latin for "horned goat" or "goat horn", and it is commonly represented in the form of a sea-goat: a mythical creature that is half goat, half fish. Its symbol is .
@@ -890,7 +881,6 @@ Constellation:
     can be seen low in the North.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/01dh6v
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-029gxg0.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0427lq_.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05t_2fg.png
   name: Cassiopeia
@@ -964,7 +954,6 @@ Constellation:
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/01wvl
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0290_rj.png
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04pbm1d.png
   name: Corona Australis
 - description: |-
     Corona Borealis is a small constellation in the Northern Celestial Hemisphere. Its Latin name means "northern crown", a name inspired by its shape; its main stars form a semicircular arc. It is the northern counterpart of Corona Australis, the southern crown. One of the 48 constellations listed by the 2nd-century astronomer Ptolemy, it remains one of the 88 modern constellations.
@@ -1027,7 +1016,6 @@ Constellation:
     is in Draco. Draco can be seen all year.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/01pwb_
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-029lcys.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0630hj9.png
   name: Draco
 - description: Equuleus is a constellation. Its name is Latin for 'horse', a foal.
@@ -1312,7 +1300,6 @@ Constellation:
     recognized by the International Astronomical Union.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/05_3h
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291l80.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0632_p5.png
   name: Puppis
 - description: |-
@@ -1346,6 +1333,17 @@ Constellation:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291qrc.png
   name: Sagitta
+- description: Sagittarius is one of the constellations of the zodiac. It is one of
+    the 48 constellations listed by the 2nd-century astronomer Ptolemy and remains
+    one of the 88 modern constellations. Its name is Latin for the archer, and its
+    symbol is, a stylized arrow. Sagittarius is commonly represented as a centaur
+    drawing a bow. It lies between Scorpius and Ophiuchus to the west and Capricornus
+    to the east.
+  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06pgg
+  images:
+  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291pkm.png
+  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041f7kr.jpg
+  name: Sagittarius
 - description: Scorpius, sometimes known as Scorpio, is one of the constellations
     of the zodiac. Its name is Latin for scorpion, and its symbol is . It lies between
     Libra to the west and Sagittarius to the east. It is a large constellation located
@@ -1427,7 +1425,6 @@ Constellation:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291vpd.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0428jcg.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0593g_4.png
   name: Ursa Major
 - description: |-
     Ursa Minor, also known as the Little Bear, is a constellation in the northern sky. Like the Great Bear, the tail of the Little Bear may also be seen as the handle of a ladle, hence the name Little Dipper. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and remains one of the 88 modern constellations. Ursa Minor is notable as the location of the north celestial pole, although this will change after some centuries due to the precession of the equinoxes.
@@ -1587,7 +1584,6 @@ Galaxy:
     An estimation of the galaxy's span resulted in a conclusion of 150,000 light years, which is slightly larger than the Milky Way.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/08kxp8
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02ggncy.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041npc6.jpg
   name: Cartwheel Galaxy
 - description: |-
@@ -1595,7 +1591,6 @@ Galaxy:
     The center of the galaxy contains a supermassive black hole with a mass equivalent to 55 million solar masses, which ejects a relativistic jet that is responsible for emissions in the X-ray and radio wavelengths. By taking radio observations of the jet separated by a decade, astronomers have determined that the inner parts of the jet are moving at about one half of the speed of light. X-rays are produced farther out as the jet collides with surrounding gases resulting in the creation of highly energetic particles.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/02l7h1
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02cz743.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03stpk0.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04rw04m.jpg
   name: Centaurus A
@@ -1952,7 +1947,6 @@ Galaxy:
     Radio observations and Hubble Space Telescope images of M84 have revealed two jets of matter shooting out from the galaxy's center as well as a disk of rapidly rotating gas and stars indicating the presence of a 1.5 ×10^9 M☉ supermassive black hole. It also has a few young stars and star clusters, indicating star formation at a very low rate.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/03v7xl
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02dmp52.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04pv0nq.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05th6dm.jpg
   name: Messier 84
@@ -2117,7 +2111,6 @@ Galaxy:
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/09x2kd
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03sq77w.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-07878nf.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0bcr7b3.jpg
   name: NGC 1097
 - description: |-
@@ -2135,7 +2128,6 @@ Galaxy:
     of galaxies.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/04w7h0
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02f4x9_.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03rpfll.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04rkx8z.jpg
   name: NGC 1275
@@ -2159,7 +2151,6 @@ Galaxy:
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/07mf5r
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02g74c7.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02dkh2y.jpg
   name: NGC 1300
 - description: NGC 1309 is a spiral galaxy located approximately 120 million light-years
     away in the constellation Eridanus. It is about 75,000 light-years across; about
@@ -2194,7 +2185,6 @@ Galaxy:
     Credit: ESO/P. Grosbøl.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06tqvh
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02g003s.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03s83cx.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0bc71tw.jpg
   name: NGC 1365
@@ -2259,7 +2249,6 @@ Galaxy:
     Supernova 1993 af went off in NGC 1808.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/02qfmm0
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03qy7b4.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0dh7ysl.jpg
   name: NGC 1808
 - description: NGC 185 is a dwarf spheroidal galaxy about 2.08 million light-years
@@ -2361,7 +2350,6 @@ Galaxy:
     it on November 16, 1784. NGC 2905 is a bright star cloud within this galaxy.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/09xmf8
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03sq9n4.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04ss4gv.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-059zrv9.jpg
   name: NGC 2903
@@ -2427,9 +2415,7 @@ Galaxy:
     NGC 3190 is a spiral galaxy with tightly wound arms and lying in the constellation Leo. It was discovered by William Herschel in 1784. NGC 3190 is member of Hickson 44 galaxy group, estimated at around 80 million light years away, and consisting of four galaxies in a tight group - NGC 3193 is fairly featureless, NGC 3187 is a dim but striking spiral galaxy and NGC 3185 has a barred spiral structure with an outer ring.
     In 2002 two supernovae were observed in the galaxy. A Brazilian amateur astronomer Paulo Cacella detected one supernova in the southeastern part in March 2002, and then an Italian team, while studying the first one, detected a second supernova on the other side two months later.
     In 2012 Apple Inc used a blue tinted image of NGC 3190 as their desktop image for their release of OS X Mountain Lion.
-    Spiral Galaxy NGC 3190 as imaged by ESO/VLT in March 2003.
-    SN 2002bo close-up
-    .
+    Spiral Galaxy NGC 3190 as imaged by ESO/VLT in March 2003 (SN 2002bo close-up)
     Combined Hubble Legacy images by Robert Gendler.
     GALEX ultraviolet image of NGC 3190 field.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/04f_18w
@@ -2455,7 +2441,6 @@ Galaxy:
     While searching for overlapping galaxies in April 1999, two astronomers from the University of Alabama were the first to image the deep sky object in enough detail to tell that it was in fact two galaxies. In a March 2000 observation of the galaxies, a prominent green star-like object was seen in one of the arms. Astronomers theorized that it could have been a supernova, but the unique filtering properties of the foreground galaxy made it difficult to decide definitively.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06148v
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02frk9q.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-077s7l5.jpg
   name: NGC 3314
 - description: NGC 3370 is a spiral galaxy about 98 million light-years away in the
@@ -2582,7 +2567,6 @@ Galaxy:
     of such ring structures in galaxies.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0c507c
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02grhsq.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-07br886.jpg
   name: NGC 4314
 - description: |-
@@ -2768,7 +2752,6 @@ Galaxy:
     Messier in 1781, and independently found by William Herschel in 1788.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/03shzt
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02ch205.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-05ttjt8.png
   name: NGC 5866
 - description: |-
@@ -2855,7 +2838,6 @@ Galaxy:
     The Spitzer Space Telescope revealed the presence of a huge intergalactic shock wave, shown by the magnificent green arc in the picture at right produced by one galaxy falling into another at millions of miles per hour. As NGC 7318B collides with NGC 7318A, gas spread throughout the cluster, atoms of hydrogen are heated in the shock wave, producing the green glow. The molecular hydrogen seen here is one of the most turbulent forms of molecular hydrogen ever seen. This phenomenon was discovered by an international team of scientists of the Max Planck Institute for Nuclear Physics in Heidelberg. Most notable is the fact that this collision can help provide a view into what happened in the early universe 10 billion years ago when it formed.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0bwgqr
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02ct5w8.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03svg5t.jpg
   name: NGC 7318
 - description: NGC 7319 is a spiral galaxy member of the Stephan's Quintet located
@@ -3469,7 +3451,6 @@ Moon:
     Metis is tidally locked to Jupiter, and its shape is strongly asymmetrical, with one of the diameters being almost twice as large as the smallest one. It is also one of the two moons known to orbit Jupiter in less than the length of Jupiter's day, the other being Adrastea. It orbits within the main ring of Jupiter, and is thought to be a major contributor of material to the rings.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0c523
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bmfjl.gif
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04ptcb_.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0637bgs.jpg
   name: Metis
@@ -3488,7 +3469,6 @@ Moon:
     Miranda was discovered by Gerard Kuiper on 16 February 1948 at McDonald Observatory, and named after Miranda from William Shakespeare's play The Tempest.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/052ql
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bgq03.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03s61h1.jpg
   name: Miranda
 - description: Nereid is the third-largest moon of Neptune. It has a highly eccentric
@@ -3519,7 +3499,6 @@ Moon:
     Ophelia acts as the outer shepherd satellite for Uranus' Epsilon ring. The orbit of Ophelia is within the synchronous orbit radius of Uranus, and therefore the moon is slowly decaying due to tidal forces.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0jv_n
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bs0lg.gif
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04pvrpt.jpg
   name: Ophelia
 - description: |-
@@ -3583,7 +3562,6 @@ Moon:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bt5zz.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03tm_gh.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-04r5t0c.jpg
   name: Tethys
 - description: |-
     Thalassa, also known as Neptune IV, is the second innermost satellite of Neptune. Thalassa was named after sea goddess Thalassa, a daughter of Aether and Hemera from Greek mythology. "Thalassa" is also the Greek word for "sea".
@@ -3657,7 +3635,6 @@ Nebula:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bnk20.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bhc02.jpg
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-08bgx32.jpg
   name: Crab Nebula
 - description: |-
     The Dumbbell Nebula is a planetary nebula in the constellation Vulpecula, at a distance of about 1,360 light years.
@@ -3677,7 +3654,6 @@ Nebula:
     photographed by the Hubble Space Telescope.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/01v8lq
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02ch22c.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03skxm7.jpg
   name: Eagle Nebula
 - description: The Helix Nebula, also known as The Helix, NGC 7293, is a large planetary
@@ -3764,6 +3740,7 @@ Planet:
     According to evidence from sources such as radiometric dating, the Earth was formed around four and a half billion years ago. Within its first billion years, life appeared in its oceans and began to affect its atmosphere and surface, promoting the proliferation of aerobic as well as anaerobic organisms and causing the formation of the atmosphere's ozone layer. This layer and the geomagnetic field block the most life-threatening parts of the Sun's radiation, so life was able to flourish on land as well as in water.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/02j71
   images:
+  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m20-trifid-nebula.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-02bcrr1.jpg
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03stv48.jpg
   name: Earth
@@ -4333,7 +4310,6 @@ Star:
     very slightly over a period of a few hours.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/047l1h
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-044vnt3.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291ckp.png
   name: Denebola
 - description: |-
@@ -4734,7 +4710,6 @@ Star:
     The system is also called the Hulse–Taylor binary pulsar after its discoverers.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/0760lg
   images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03s9_3p.png
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-09hhpm_.png
   name: PSR B1913+16
 - description: |-
@@ -5271,6 +5246,17 @@ Star System:
     neighbors, at about 8.7 light years from Earth in the constellation Cetus. Luyten
     726-8B is also known under the variable star designation UV Ceti, being the archetype
     for the class of flare stars.
+
+    The star system was discovered in 1948 by Willem Jacob Luyten in the course of compiling
+    a catalog of stars of high proper motion; he noted its exceptionally high proper motion
+    of 3.37 arc seconds annually and cataloged it as Luyten 726-8. The two stars are of
+    nearly equal brightness, with visual magnitudes of 12.7 and 13.2 as seen from Earth. They
+    orbit one another every 26.5 years. The distance between the two stars varies from 2.1 to 8.8
+    astronomical units (310 to 1,320 Gm). The Luyten 726-8 system is approximately 2.63 parsecs
+    (8.58 ly) from Earth's Solar System, in the constellation Cetus, and is thus the seventh-closest
+    star system to Earth. Its own nearest neighbor is Tau Ceti, 0.88 pc (2.87 ly) away from it.
+    If R_v=+29 km/s then approximately 28,700 years ago Luyten 726-8 was at its minimal distance of
+    2.21 pc (7.2 ly) from the Sun.
   detailed_info: https://www.googleapis.com/freebase/v1/topic/m/03wjzy
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0h0rk30.jpg
@@ -5333,17 +5319,6 @@ Star System:
   images:
   - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-03rwsqf.gif
   name: SS 433
-- description: Sagittarius is one of the constellations of the zodiac. It is one of
-    the 48 constellations listed by the 2nd-century astronomer Ptolemy and remains
-    one of the 88 modern constellations. Its name is Latin for the archer, and its
-    symbol is, a stylized arrow. Sagittarius is commonly represented as a centaur
-    drawing a bow. It lies between Scorpius and Ophiuchus to the west and Capricornus
-    to the east.
-  detailed_info: https://www.googleapis.com/freebase/v1/topic/m/06pgg
-  images:
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-0291pkm.png
-  - https://78a1c9431eff72d88f9329a3540c6d2ee15f4416.googledrive.com/host/0B6iTZw8qSxR2UGNIVjRvSXgtTUk/m-041f7kr.jpg
-  name: Sagittarius
 - description: |-
     The Solar System comprises the Sun and the objects that orbit it, whether they orbit it directly or by orbiting other objects that orbit it directly. Of those objects that orbit the Sun directly, the largest eight are the planets that form the planetary system around it, while the remainder are significantly smaller objects, such as dwarf planets and small Solar System bodies such as comets and asteroids.
     The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in Jupiter. The four smaller inner planets, Mercury, Venus, Earth and Mars, also called the terrestrial planets, are primarily composed of rock and metal. The four outer planets, called the gas giants, are substantially more massive than the terrestrials. The two largest, Jupiter and Saturn, are composed mainly of hydrogen and helium; the two outermost planets, Uranus and Neptune, are composed largely of substances with relatively high melting points, called ices, such as water, ammonia and methane, and are often referred to separately as "ice giants".
