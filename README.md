@@ -79,14 +79,6 @@ info = Astronomy::Information.new
 info.search 'moon'
 ```
 
-*Hint:*
-
-If you find images are too small appending a query string with optional parameters: maxwidth and / or maxheight.
-
-For example:
-
-https://usercontent.googleapis.com/freebase/v1/image/m/02dd6yz?maxwidth=500&maxheight=400
-
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/astronomy/fork )
